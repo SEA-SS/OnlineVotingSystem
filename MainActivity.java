@@ -21,6 +21,7 @@ public class MainActivity<find> extends AppCompatActivity {
     }
     public void onClickButtonListener()
     {
+        //btn
         btn2=(Button)findViewById(R.id.loginButton);
         btn2.setOnClickListener(new View.OnClickListener() {
             @Override
